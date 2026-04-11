@@ -4,10 +4,9 @@
 
 > "如果你做的每件事都以三年为期，你的竞争对手就很多；如果你愿意投资七年，你的竞争对手就少了很多。" —— 杰夫·贝佐斯
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/bezos-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Panmax/bezos-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将杰夫·贝佐斯的长期主义与客户至上思维蒸馏为 Claude Code skill，用 Day 1 心态和逆向工作法帮你穿透短期噪音。**
 
 </div>
@@ -62,12 +61,12 @@ bezos-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
-<sub>用贝佐斯的智慧，在长期主义的赛道上持续奔跑。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
